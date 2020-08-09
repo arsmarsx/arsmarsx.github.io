@@ -1,7 +1,8 @@
 html, body{
 	font-size:16px;
 	color: #dfdfdf;
-	background-color: #063647; 
+	background-color: #063647;
+	font-family: Montserrat, monospace;
 }
 
 a {
@@ -34,6 +35,8 @@ section{
 	padding: 0.2rem;
 }
 
+
+
 a.nav-item {
 	color: #dfdfdf;
 }
@@ -43,8 +46,8 @@ a.nav-item:hover {
 }
 
 .avatar{
-	height:200px;
-	border-radius: 50%;
+	height:100px;
+	border-radius: 1%;
 }
 
 .intro-description{
@@ -55,11 +58,12 @@ a.nav-item:hover {
 	max-width:100%;
 	max-height:175px;
 	margin-bottom:15px;
+	align-content: center;
 }
 
 .project-figure {
 	margin: 0 auto 1rem auto;
-	max-height: 256px;
+	max-height: 1024px;
 	max-width: 256px;
 }
 
@@ -83,6 +87,24 @@ a.nav-item:hover {
 	width: 80%;
 	margin: 0 auto;
 }
+
+.boldex {
+	text-align: center;
+	width: 80%;
+	font-size: 2em;
+	margin: 0 auto;
+	font-weight: bold;
+}
+
+.descriptionintro {
+	text-align: center;
+	width: 80%;
+	font-size: 1em;
+	margin: 0 auto;
+
+}
+
+
 
 .void-background {
 	background-color: transparent; 
