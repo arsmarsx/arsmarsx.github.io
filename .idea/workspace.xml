@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1250f956-4e0d-47c9-8bec-5454902377e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/UI2Firebird.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/avatar2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/telegramiconwhite.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/avatar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/giff.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/UI3MyWindTurbine.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +69,7 @@
       <workItem from="1597002226729" duration="764000" />
       <workItem from="1597307101154" duration="308000" />
       <workItem from="1598037468599" duration="1610000" />
-      <workItem from="1600584245523" duration="9271000" />
+      <workItem from="1600584245523" duration="11029000" />
     </task>
     <servers />
   </component>
