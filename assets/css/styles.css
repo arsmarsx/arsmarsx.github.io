@@ -110,6 +110,30 @@ a.nav-item:hover {
 	background-color: transparent; 
 }
 
+#expander {
+	display: none;
+}
+
+.spoiler .expander:before {
+	content: '[Show UI]'
+}
+
+.spoiler #expand {
+	display: none;
+}
+
+.spoiler #expand:checked + .expander:before {
+	content: '[hide]';
+}
+
+.spoiler #expand:checked ~ .spoiler-content {
+	display: block;
+}
+
+.spoiler .spoiler-content {
+	display: none;
+}
+
 @media screen and (max-width: 768px) {
 	.nav-menu {
 		background-color: #063647;
@@ -127,4 +151,10 @@ a.nav-item:hover {
 		background-color: #fff;
 	}
 
+}
+
+/*Spoiler*/
+.nowrap {
+	white-space: nowrap ;
+	text-decoration: underline;
 }

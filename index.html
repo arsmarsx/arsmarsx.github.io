@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html xmlns:text-decoration="http://www.w3.org/1999/xhtml">
 <head>
 	<title>Portfolio</title>
 	<!-- css files -->
@@ -7,7 +7,7 @@
 	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.3.1/css/bulma.min.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/styles.css">
 
-	<link rel="icon" type="image/x-icon" href="assets/img/favicon.png">
+	<link rel="icon" type="image/x-icon" href="assets/img/fav.png">
 	<meta name="author" content="Hassan Ali">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
@@ -17,21 +17,26 @@
 			<!-- This "nav-menu" is hidden on mobile -->
 			<!-- Add the modifier "is-active" to display it on mobile -->
 			<div class="nav-left">
-				<a href="http://medium.com/@hassanhelfi/" class="nav-item">
-					<span class="icon">
-						<i class="fa fa-medium"></i>
-					</span>
-				</a>
-				<a href="http://github.com/helfi92" class="nav-item">
+<!--				<a href="http://medium.com/@hassanhelfi/" class="nav-item">-->
+<!--					<span class="icon">-->
+<!--						<i class="fa fa-medium"></i>-->
+<!--					</span>-->
+<!--				</a>-->
+				<a href="https://github.com/arsmarsx" class="nav-item">
 					<span class="icon">
 						<i class="fa fa-github"></i>
 					</span>
 				</a>
-				<a href="https://twitter.com/hassanhelfi" class="nav-item">
+				<a href="https://twitter.com/arstagaev" class="nav-item">
 					<span class="icon">
 						<i class="fa fa-twitter"></i>
 					</span>
-				</a>				
+				</a>
+				<a href="https://t.me/arzames" class="nav-item">
+					<span class="icon">
+						<i class="fab fa-telegram-plane"></i>
+					</span>
+				</a>
 			</div>
 
 			<div class="nav-right nav-menu">
@@ -53,7 +58,8 @@
 		<section id="about" class="section section-1">
 			<div class="container has-text-centered">
 				<!-- Source: https://flic.kr/p/pAZBNK -->
-				<img class="avatar" src="assets/img/photo1.jpg">
+<!--				<img class="avatar" src="assets/img/avatar2.jpg">-->
+				<img src="assets/img/avatar2.jpg" alt="avatar" style="width:200px;height:200px;">
 			</div>
 			<div class="boldex"></br>
 				<h4>Arsen Tagaev</h4>
@@ -64,6 +70,10 @@
 			<div class="descriptionintro"></br>
 
 				<h2>mainly i develop android apps in Kotlin and Java</h2>
+				<p>
+					my tech stack: Retrofit, RxJava,  Room, SQLite
+					I have experience with Firebase (Crashlitycs, Analytics, Push Notifications), Google Play Console, custom libraries (HelloCharts, MPAndroidChart)
+				</p>
 
 			</div>
 		</section>
@@ -81,15 +91,54 @@
 						<div class="box project-text">
 							<article>
 								<div>
+									<p>
+									<h3 style="color: red" class="title is-3">Solar Panel Assistant - Firebird</h3>
+									</p>
+
+								</div>
+
+
+								<button title="Click to Show/Hide Content" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}"><h2 class="subtitle">Show UI [gif]</h2></button>
+								<div id="spoiler" style="display:none">
 									<figure class="image project-figure">
-										<img src="assets/img/p1.png" alt="Image">
+										<img src="assets/img/UI2Firebird.gif" alt="Image">
 									</figure>
 								</div>
-								<div>			
+								<!--								<div>-->
+								<!--									<figure class="image project-figure">-->
+								<!--										<img src="assets/img/giff.gif" alt="Image">-->
+								<!--									</figure>-->
+								<!--								</div>-->
+								<div>
+									<p style="margin-top: 30px"></p>
 									<p>
+										Main features:
+									</p>
+									<p>
+										> with the application, you will know the future power output of your solar panel 48 hr ahead
+									</p>
+									<p>
+										> calculation of efficiency your solar panel
+									</p>
+									<p>
+										> you can get a forecast for any point on the planet
+									</p>
+									<p style="color: cadetblue">
+										[Retrofit, Google Maps API, Firebase and custom libraries]
+									</p>
+									<p style="margin-top: 30px"></p>
+									<p>
+										<a href="http://www.yahoo.com"><span class="nowrap" style="color: cadetblue">Google Play</span></a>
+										 and
+										<a href="http://www.yahoo.com"><span class="nowrap" style="color: cadetblue">GitHub</span></a>
+<!--										<a href="http://www.yahoo.com"><span class="nowrap">claasss</span></a>-->
+<!--										<span class="nowrap"><a href="http://www.yahoo.com"><span class="nowrap">- asked by Peter 2 days ago</span><p style="color: cadetblue; text-decoration: underline">Google Play</p></a></span>-->
 
 									</p>
+
+
 								</div>
+
 							</article>
 						</div>
 					</div>
@@ -98,13 +147,41 @@
 						<div class="box project-text">
 							<article>
 								<div>
+									<p>
+									<h3 style="color: blue" class="title is-3">My Wind Turbine</h3>
+									</p>
+
+								</div>
+								<button title="Click to Show/Hide Content" type="button2" onclick="if(document.getElementById('spoiler2') .style.display=='none') {document.getElementById('spoiler2') .style.display=''}else{document.getElementById('spoiler2') .style.display='none'}"><h2 class="subtitle">Show UI [gif]</h2></button>
+								<div id="spoiler2" style="display:none">
+
 									<figure class="image project-figure">
-										<img src="assets/img/giff.gif" alt="Image">
+										<img src="assets/img/UI3MyWindTurbine.gif" alt="Image">
 									</figure>
 								</div>
-								<div>			
+								<!--								<div>-->
+								<!--									<figure class="image project-figure">-->
+								<!--										<img src="assets/img/p1.png" alt="Image">-->
+								<!--									</figure>-->
+								<!--								</div>-->
+								<div>
+									<p style="margin-top: 30px"></p>
 									<p>
-										Bless up. Another one. How’s business? Boomin. Don’t ever play yourself. Life is what you make it, so let’s make it.
+										This application is needed for forecasting future power output of your wind farm. We use original formula, she's adapted for dynamic forecasting.
+									</p>
+
+									<p style="color: cadetblue">
+										[Retrofit, Google Maps API, Firebase and custom libraries]
+									</p>
+									<p style="margin-top: 30px"></p>
+
+									<p>
+										<a href="http://www.yahoo.com"><span class="nowrap" style="color: cadetblue">Google Play</span></a>
+										and
+										<a href="http://www.yahoo.com"><span class="nowrap" style="color: cadetblue">GitHub</span></a>
+										<!--										<a href="http://www.yahoo.com"><span class="nowrap">claasss</span></a>-->
+										<!--										<span class="nowrap"><a href="http://www.yahoo.com"><span class="nowrap">- asked by Peter 2 days ago</span><p style="color: cadetblue; text-decoration: underline">Google Play</p></a></span>-->
+
 									</p>
 								</div>
 							</article>
@@ -117,15 +194,14 @@
 		<!-- Social -->
 		<section id="social" class="section section-3">
 			<div class="container">
-				<div class="has-text-centered">					
-					<h3 class="title is-3">Let's Socialize</h3>
+				<div class="has-text-centered">
 				</div>
 				<div class="social-container columns">
 					<div class="column is-6 has-text-centered">
-						<a target="_blank" href="https://ca.linkedin.com/in/hassan-ali-6132468a"><img class="" src="assets/img/linkedin.png"></a>
+						<a target="_blank" href="https://www.linkedin.com/in/arsen-tagaev-a4b3a7126/"><img class="" src="assets/img/linkedin.png"></a>
 					</div>
 					<div class="column is-6 has-text-centered">
-						<a target="_blank" href="https://www.facebook.com/Hassan.Helfi"><img class="" src="assets/img/facebook.png"></a>
+						<a target="_blank" href="https://www.facebook.com/arstagaev/"><img class="" src="assets/img/facebook.png"></a>
 					</div>
 				</div>
 			</div>
