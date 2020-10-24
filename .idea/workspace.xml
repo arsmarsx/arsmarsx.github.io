@@ -71,17 +71,38 @@
       <workItem from="1598037468599" duration="1610000" />
       <workItem from="1600584245523" duration="16058000" />
       <workItem from="1600719547895" duration="237000" />
+      <workItem from="1603535032008" duration="1148000" />
     </task>
+    <task id="LOCAL-00001" summary="cvv">
+      <created>1603535177816</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603535177816</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cvv" />
+    <option name="LAST_COMMIT_MESSAGE" value="cvv" />
   </component>
   <component name="WindowStateProjectService">
     <state x="371" y="96" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600590272049">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="371" y="96" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689@0.0.1280.689" timestamp="1600590272049" />
+    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1603535176458">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1603535176458" />
+    <state x="233" y="82" key="Vcs.Push.Dialog.v2" timestamp="1603535188990">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="82" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1603535188990" />
     <state x="471" y="137" width="339" height="415" key="svn.repositoryBrowser" timestamp="1597307383246">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
