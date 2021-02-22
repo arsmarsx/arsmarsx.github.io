@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1250f956-4e0d-47c9-8bec-5454902377e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/mwtUI4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/epmanimation.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/solxanimation.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,27 +99,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cvv" />
     <option name="LAST_COMMIT_MESSAGE" value="cvv" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="371" y="96" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600590272049">
-      <screen x="0" y="0" width="1280" height="689" />
-    </state>
-    <state x="371" y="96" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689@0.0.1280.689" timestamp="1600590272049" />
-    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1603535176458">
-      <screen x="0" y="0" width="1280" height="689" />
-    </state>
-    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1603535176458" />
-    <state x="233" y="82" key="Vcs.Push.Dialog.v2" timestamp="1603535188990">
-      <screen x="0" y="0" width="1280" height="689" />
-    </state>
-    <state x="233" y="82" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1603535188990" />
-    <state x="471" y="137" width="339" height="415" key="svn.repositoryBrowser" timestamp="1597307383246">
-      <screen x="0" y="0" width="1280" height="689" />
-    </state>
-    <state x="471" y="137" width="339" height="415" key="svn.repositoryBrowser/0.0.1280.689@0.0.1280.689" timestamp="1597307383246" />
   </component>
 </project>
