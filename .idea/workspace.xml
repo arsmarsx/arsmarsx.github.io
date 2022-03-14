@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1250f956-4e0d-47c9-8bec-5454902377e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/spx3.jpg" afterDir="false" />
+    <list default="true" id="1250f956-4e0d-47c9-8bec-5454902377e0" name="Default Changelist" comment="cvv">
+      <change afterPath="$PROJECT_DIR$/assets/img/projects/avt2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/projects/pc1_2022.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/spx3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/spx3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,12 +32,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ion8\AndroidStudioProjects\cv\assets\img" />
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="C:\Users\ion8\IdeaProjects\cv\assets\img" />
       <recent name="C:\Users\Xiaomi\IdeaProjects\arsmarsx.github.io\assets\img" />
       <recent name="C:\Users\Xiaomi\IdeaProjects\arsmarsx.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ion8\AndroidStudioProjects\cv\assets\img\projects" />
       <recent name="C:\Users\ion8\IdeaProjects\cv\assets\img" />
     </key>
   </component>
